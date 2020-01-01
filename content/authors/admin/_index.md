@@ -18,7 +18,7 @@ organizations:
   url: "https://www.damtp.cam.ac.uk/research/waves/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral researcher interested in Wave theory
+bio: Post-doctoral researcher interested in Wave Theory
 
 
 interests:
@@ -76,9 +76,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+- Researchers
+- Visitors
 ---
 
 I am a Postdoctoral Research Associate at The University of Cambridge working on wave propagation through acoustic metamaterials. My research interests primarily focus on the optical, acoustic, and opto-acoustic modelling of structured materials.
