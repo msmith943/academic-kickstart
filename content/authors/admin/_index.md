@@ -33,14 +33,14 @@ interests:
 education:
   courses:
   - course: PhD in Mathematics
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+    institution: University of Auckland
+    year: 2014
+  - course: BSc(Hons) in Applied Mathematics
+    institution: University of Auckland
+    year: 2010
+  - course: BSc in Applied Mathematics and Statistics
+    institution: University of Auckland
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
