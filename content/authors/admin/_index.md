@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Post-doctoral Research Associate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -50,16 +50,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:ms2663@cam.ac.uk".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=DdmIn3gAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Michael_Smith69
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-9514-9438
