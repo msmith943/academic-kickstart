@@ -18,12 +18,19 @@ organizations:
   url: "https://www.damtp.cam.ac.uk/research/waves/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Postdoctoral Research Associate at The University of Cambridge working on acoustic wave propagation through metamaterials. My research interests primarily focus on the optical, acoustic, and opto-acoustic modelling of structured materials.
+
+I have also worked on the control of wave energy in periodically perforated thin plates and on wave-structure interactions for floating sea ice. Additionally, I have expertise in nonlinear elasticity for industrial applications. I have considerable expertise in  the development of numerical solutions for wave propagation problems including boundary element method (BEM) solutions, finite element method (FEM) solutions, and multipole method (lattice sum) solutions.
+
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Acoustics
+- Theoretical Optics
+- Composite Materials and metamaterials
+- Opto-acoustic interactions
+- Nonlinear elasticity/mechanics
+- Nonlinear optics
+- Wave Theory
 
 education:
   courses:
