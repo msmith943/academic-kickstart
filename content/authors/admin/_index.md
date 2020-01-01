@@ -18,7 +18,7 @@ organizations:
   url: "https://www.damtp.cam.ac.uk/research/waves/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral researcher interested in Wave theory
+bio: Postdoctoral researcher interested in Wave theory
 
 
 interests:
@@ -74,11 +74,11 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a Postdoctoral Research Associate at The University of Cambridge working on wave propagation through acoustic metamaterials. My research interests primarily focus on the optical, acoustic, and opto-acoustic modelling of structured materials.
 
-I am also interested in the control of wave energy in periodically perforated thin plates and on wave-structure interactions for floating sea ice. Outside of wave theory, I have expertise in nonlinear elasticity for theoretical and industrial applications. I have considerable expertise in the development of numerical solutions for wave propagation problems including boundary element method (BEM) solutions, finite element method (FEM) solutions, and multipole method (lattice sum) solutions.
+I am also interested in the control of wave energy in periodically perforated thin plates and on wave-structure interactions for floating sea ice. Outside of wave theory, I have expertise in theoretical and experimental nonlinear elasticity for industrial applications. I have considerable expertise in the development of numerical solutions for wave propagation problems including boundary element method (BEM) solutions, finite element method (FEM) solutions, and multipole method (lattice sum) solutions.
