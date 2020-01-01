@@ -18,9 +18,7 @@ organizations:
   url: "https://www.damtp.cam.ac.uk/research/waves/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Research Associate at The University of Cambridge working on acoustic wave propagation through metamaterials. My research interests primarily focus on the optical, acoustic, and opto-acoustic modelling of structured materials.
-
-I have also worked on the control of wave energy in periodically perforated thin plates and on wave-structure interactions for floating sea ice. Additionally, I have expertise in nonlinear elasticity for industrial applications. I have considerable expertise in  the development of numerical solutions for wave propagation problems including boundary element method (BEM) solutions, finite element method (FEM) solutions, and multipole method (lattice sum) solutions.
+bio: Post-doctoral researcher interested in Wave theory
 
 
 interests:
@@ -77,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Postdoctoral Research Associate at The University of Cambridge working on acoustic wave propagation through metamaterials. My research interests primarily focus on the optical, acoustic, and opto-acoustic modelling of structured materials.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have also worked on the control of wave energy in periodically perforated thin plates and on wave-structure interactions for floating sea ice. Additionally, I have expertise in nonlinear elasticity for industrial applications. I have considerable expertise in  the development of numerical solutions for wave propagation problems including boundary element method (BEM) solutions, finite element method (FEM) solutions, and multipole method (lattice sum) solutions.
