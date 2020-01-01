@@ -18,7 +18,7 @@ organizations:
   url: "https://www.damtp.cam.ac.uk/research/waves/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Post-doctoral researcher interested in Wave Theory
+bio: Post-doctoral researcher interested in Wave theory
 
 
 interests:
@@ -55,16 +55,13 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: "https://scholar.google.com/citations?user=DdmIn3gAAAAJ&hl=en"
+  link: https://scholar.google.com/citations?user=DdmIn3gAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
- - icon: orcid
-   icon_pack: ai
-   link: "https://orcid.org/0000-0001-9514-9438"
- - icon: researchgate
-   icon_pack: ai
-   link: "https://www.researchgate.net/profile/Michael_Smith69"
+ - icon: github
+   icon_pack: fab
+   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
