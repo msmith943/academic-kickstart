@@ -23,10 +23,10 @@ bio: Postdoctoral researcher interested in Wave theory
 
 interests:
 - Acoustics
-- Composite Materials and metamaterials
-- Opto-acoustic interactions
 - Nonlinear elasticity/mechanics
 - Nonlinear optics
+- Opto-acoustic interactions
+- Composite Materials and metamaterials
 - Wave-Structure interactions
 - Wave Theory
 
