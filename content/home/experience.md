@@ -18,28 +18,42 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral Research Associate"
-  company = "University of Cambridge"
-  company_url = ""
-  location = "Cambridge, UK"
-  date_start = "2019-07-01"
-  date_end = ""
-  description = """
-  #Responsibilities include:
-  #
-  #* Analysing
-  #* Modelling
-  #* Deploying
-  Research into acoustic metamaterials and wave propagation problems
-  """
+title = "Postdoctoral Research Associate"
+company = "University of Cambridge"
+company_url = ""
+location = "Cambridge, UK"
+date_start = "2019-07-01"
+date_end = ""
+description = """
+Research into acoustic metamaterials and wave propagation problems
+"""
 
 [[experience]]
-  title = "Postdoctoral Research Associate"
-  company = "University of Manchester"
-  company_url = ""
-  location = "Manchester, UK"
-  date_start = "2017-05-08"
-  date_end = "2019-07-31"
-  description = """Industrial research project on nonlinear elasticity and buckling theory."""
+title = "Postdoctoral Research Associate"
+company = "University of Manchester"
+company_url = ""
+location = "Manchester, UK"
+date_start = "2017-05-08"
+date_end = "2019-07-31"
+description = """Industrial research project on nonlinear elasticity and buckling theory."""
 
+
+[[experience]]
+title = "Postdoctoral Research Associate"
+company = "University of Sydney"
+company_url = ""
+location = "Sydney, Australia"
+date_start = "2014-09-08"
+date_end = "2017-05-08"
+description = """Investigating SBS in optoacoustic metamaterials."""
+
+
+[[experience]]
+title = "Postdoctoral Research Associate"
+company = "Institut Fresnel"
+company_url = ""
+location = "Marseille, France"
+date_start = "2013-09-01"
+date_end = "2014-09-08"
+description = """Research into finite-frequency homogenisation of photonic crystals."""  
 +++
