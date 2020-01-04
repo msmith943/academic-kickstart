@@ -17,7 +17,7 @@ url_slides = ""
 url_video = ""
 
  [header]
- image = "headers/prof_neg.jpg"
+ image = ""
 # caption = "My caption :smile:"
 
 [[url_custom]]
