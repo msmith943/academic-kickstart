@@ -1,15 +1,15 @@
 +++
-abstract = "We theoretically show that the frequency and momentum of a photon are not proportional to one another at low frequencies in photonic crystals comprising both positive- and negative-valued material properties. We rigorously determine closed-form conditions for the light cone to emanate from points other than the origin of k-space. We also show that first bands can be tuned to originate from an arbitrary Bloch coordinate."
-abstract_short = "This work shows that photonic crystals exhibit new low-frequency energy-momentum relations with sign-switching constituents"
+abstract = "We theoretically show that the frequency and momentum of a photon are not necessarily proportional to one another at low frequencies in photonic crystals comprising materials with positive- and negative-valued material properties. We rigorously determine closed-form conditions for the light cone to emanate from points other than the origin of k space, ultimately decoupling the first band from the origin and demonstrating light propagation at zero energy with nonzero crystal momentum. We also numerically show that first bands can originate from an arbitrary Bloch coordinate as well as from multiple coordinates simultaneously."
+abstract_short = " "
 authors = ["M.J.A. Smith and P.Y. Chen"]
-date = "2018-03-06"
-image_preview = "headers/prof_neg.jpg"
+date = "2018-09-06"
+image_preview = ""
 math = true
 publication_types = ["2"]
-publication = "arXiv preprint:1712.09112"
+publication = "Physical Review Letters, 121:103902"
 publication_short = ""
 selected = true
-title = "Decoupling the energy and momentum of photons in the quasistatic limit"
+title = "Violating the Energy-Momentum Proportionality of Photonic Crystals in the Low-Frequency Limit"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
@@ -22,6 +22,6 @@ url_video = ""
 
 [[url_custom]]
 name = "Article Link"
-url = "https://arxiv.org/abs/1712.09112"
+url = "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.103902"
 
 +++
