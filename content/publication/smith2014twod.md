@@ -12,15 +12,13 @@ selected = false
 title = "A short remark on the band structure of free-edge platonic crystals"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/short_remark.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="http://www.tandfonline.com/doi/full/10.1080/17455030.2014.936534"
 
 [[url_custom]]
 name = "Article Link"
 url = "http://www.tandfonline.com/doi/full/10.1080/17455030.2014.936534"
 
 +++
-
- 
