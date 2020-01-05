@@ -12,10 +12,10 @@ selected = false
 title = "Reflection from a multi-species material and its transmitted effective wavenumber"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/20170864.full.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2017.0864"
 
 [[url_custom]]
 name = "Article Link"
