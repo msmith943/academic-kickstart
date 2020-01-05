@@ -12,10 +12,10 @@ selected = false
 title = "Metamaterial control of Stimulated Brillouin scattering"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/optlett2016.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="https://www.osapublishing.org/ol/abstract.cfm?uri=ol-41-10-2338"
 
 
 [[url_custom]]
