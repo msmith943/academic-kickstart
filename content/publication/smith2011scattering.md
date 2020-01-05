@@ -12,14 +12,13 @@ selected = false
 title = "Scattering by cavities of arbitrary shape in an infinite plate and associated vibration problems"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/single_cavity.pdf"
 url_slides = ""
 url_video = ""
+url_source="http://www.sciencedirect.com/science/article/pii/S0022460X11002227"
 
 [[url_custom]]
 name = "Article Link"
 url = "http://www.sciencedirect.com/science/article/pii/S0022460X11002227"
 
 +++
-
- 
