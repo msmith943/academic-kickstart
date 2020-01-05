@@ -12,15 +12,13 @@ selected = false
 title = "On the stability and postbuckling behaviour of shells with corrugated cross sections under external pressure"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/jam_81_01_011002.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="http://appliedmechanics.asmedigitalcollection.asme.org/article.aspx?articleid=1733192"
 
 [[url_custom]]
 name = "Article Link"
 url = "http://appliedmechanics.asmedigitalcollection.asme.org/article.aspx?articleid=1733192"
 
 +++
-
- 
