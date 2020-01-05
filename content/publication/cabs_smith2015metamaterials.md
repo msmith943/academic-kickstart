@@ -12,7 +12,7 @@ selected = false
 title = "Tunable electrostriction in metamaterials"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/2015METAMATERIALS.pdf"
 url_slides = ""
 url_video = ""
 
