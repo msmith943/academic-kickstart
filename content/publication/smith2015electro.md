@@ -12,9 +12,10 @@ selected = true
 title = "Electrostriction enhancement in metamaterials"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/PhysRevB.91.214102.pdf"
 url_slides = ""
 url_video = ""
+url_source="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.214102"
 
 [header]
 image = ""
