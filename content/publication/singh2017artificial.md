@@ -12,11 +12,11 @@ selected = false
 title = "Artificial electrostriction in composite materials"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/josab-34-8-1573.pdf"
 url_slides = ""
 url_video = ""
+url_source="https://www.osapublishing.org/josab/abstract.cfm?uri=josab-34-8-1573"
 
- 
 
 [[url_custom]]
 name = "Article Link"
@@ -25,4 +25,3 @@ url = "https://www.osapublishing.org/josab/abstract.cfm?uri=josab-34-8-1573"
 +++
 
 This work was highlighted as an *Editor's Pick* by JOSA B
- 
