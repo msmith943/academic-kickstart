@@ -12,10 +12,10 @@ selected = false
 title = "Enhanced acousto-optic properties in layered media"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/PhysRevB.96.064114.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.064114"
 
 
 [[url_custom]]
