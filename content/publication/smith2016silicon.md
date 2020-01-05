@@ -12,16 +12,14 @@ selected = false
 title = "Stimulated Brillouin scattering enhancement in silicon inverse opal waveguides"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/optexpr2016.pdf"
 url_slides = ""
 url_video = ""
+url_source="https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-22-25148"
 
- 
 
 [[url_custom]]
 name = "Article Link"
 url = "https://www.osapublishing.org/oe/abstract.cfm?uri=oe-24-22-25148"
 
 +++
-
- 
