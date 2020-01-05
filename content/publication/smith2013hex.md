@@ -12,7 +12,7 @@ selected = false
 title = "Double Dirac cones at k = 0 in pinned platonic crystals"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/hex_platonic.pdf"
 url_slides = ""
 url_video = ""
 url_source="http://www.tandfonline.com/doi/abs/10.1080/17455030.2013.862351"
