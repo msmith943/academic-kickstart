@@ -25,8 +25,4 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
-[[redirects]]
-  from = "https://mjasmith.netlify.com/*"
-  to = "https://www.mjasmith.com/:splat"
-  status = 301
-  force = true #COMMENT: ensure that we always redirect
+ 
