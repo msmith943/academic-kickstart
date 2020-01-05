@@ -12,7 +12,7 @@ selected = false
 title = "Enhanced Stimulated Brillouin Scattering in silicon acousto-optic metamaterials"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/2015ACOFT.pdf"
 url_slides = ""
 url_video = ""
 
