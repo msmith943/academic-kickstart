@@ -12,7 +12,7 @@ selected = false
 title = "Metamaterials for enhanced acousto-optic interactions"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/2017ICTCA.pdf"
 url_slides = ""
 url_video = ""
 
