@@ -12,10 +12,10 @@ selected = false
 title = "Evaluation and regularization of phase-modulated Eisenstein series and application to double Schlomilch-type sums"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/1.5026567.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="https://aip.scitation.org/doi/10.1063/1.5026567"
 
 [[url_custom]]
 name = "Article Link"
