@@ -12,7 +12,7 @@ selected = true
 title = "Stimulated Brillouin scattering in layered media: nanoscale enhancement of silicon"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/ol-44-6-1407.pdf"
 url_slides = ""
 url_video = ""
 url_source="https://www.osapublishing.org/ol/abstract.cfm?uri=ol-44-6-1407"
