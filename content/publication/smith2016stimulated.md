@@ -12,16 +12,14 @@ selected = false
 title = "Stimulated Brillouin scattering in metamaterials"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/josab.pdf"
 url_slides = ""
 url_video = ""
+url_source="https://www.osapublishing.org/josab/abstract.cfm?uri=josab-33-10-2162"
 
- 
 
 [[url_custom]]
 name = "Article Link"
 url = "https://www.osapublishing.org/josab/abstract.cfm?uri=josab-33-10-2162"
 
 +++
-
- 
