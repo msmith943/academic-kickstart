@@ -12,7 +12,7 @@ selected = true
 title = "Finite Element Analysis of Stimulated Brillouin Scattering in Integrated Photonic Waveguides"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/JLTfinalversion.pdf"
 url_slides = ""
 url_video = ""
 url_source="https://www.osapublishing.org/jlt/abstract.cfm?uri=jlt-37-15-3791"
