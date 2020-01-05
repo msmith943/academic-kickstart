@@ -12,7 +12,7 @@ selected = false
 title = "Stimulated Brillouin Scattering with a twist"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/2017CUDOSCONF.pdf"
 url_slides = ""
 url_video = ""
 
