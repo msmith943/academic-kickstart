@@ -12,15 +12,13 @@ selected = false
 title = "Flexural wave filtering and platonic polarizers in thin elastic plates"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/platonic_clamped_grating.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="https://academic.oup.com/qjmam/article-lookup/doi/10.1093/qjmam/hbt013"
 
 [[url_custom]]
 name = "Article Link"
 url = "https://academic.oup.com/qjmam/article-lookup/doi/10.1093/qjmam/hbt013"
 
 +++
-
- 
