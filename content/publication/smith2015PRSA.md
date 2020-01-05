@@ -12,15 +12,13 @@ selected = false
 title = "Parabolic trapped modes and steered Dirac cones in platonic crystals"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/parabolic_paper.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="http://rspa.royalsocietypublishing.org/content/471/2177/20140746"
 
 [[url_custom]]
 name = "Article Link"
 url = "http://rspa.royalsocietypublishing.org/content/471/2177/20140746"
 
 +++
-
- 
