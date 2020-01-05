@@ -12,15 +12,13 @@ selected = false
 title = "Density of states for platonic crystals and clusters"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/dos_platonic.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="http://epubs.siam.org/doi/abs/10.1137/130950501"
 
 [[url_custom]]
 name = "Article Link"
 url = "http://epubs.siam.org/doi/abs/10.1137/130950501"
 
 +++
-
- 
