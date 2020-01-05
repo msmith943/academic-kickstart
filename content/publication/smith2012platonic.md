@@ -12,15 +12,13 @@ selected = false
 title = "Negative refraction and dispersion phenomena in platonic clusters"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/article-platonicpaper.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="http://www.tandfonline.com/doi/abs/10.1080/17455030.2012.711495"
 
 [[url_custom]]
 name = "Article Link"
 url = "http://www.tandfonline.com/doi/abs/10.1080/17455030.2012.711495"
 
 +++
-
- 
