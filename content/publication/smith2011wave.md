@@ -12,15 +12,13 @@ selected = false
 title = "Wave scattering by an ice floe of variable thickness"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/variable_floating_plate.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="http://www.sciencedirect.com/science/article/pii/S0165232X11000498"
 
 [[url_custom]]
 name = "Article Link"
 url = "http://www.sciencedirect.com/science/article/pii/S0165232X11000498"
 
 +++
-
- 
