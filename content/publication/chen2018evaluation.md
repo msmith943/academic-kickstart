@@ -9,7 +9,7 @@ publication_types = ["2"]
 publication = "Journal of Mathematical Physics, 59:072902"
 publication_short = ""
 selected = false
-title = "Evaluation and regularization of phase-modulated Eisenstein series and application to double Schlömilch-type sums"
+title = "Evaluation and regularization of phase-modulated Eisenstein series and application to double Schl\"{o}milch-type sums"
 url_code = ""
 url_dataset = ""
 url_pdf = ""
@@ -22,5 +22,3 @@ name = "Article Link"
 url = "https://arxiv.org/abs/1608.02827"
 
 +++
-
- 
