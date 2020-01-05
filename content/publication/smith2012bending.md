@@ -12,15 +12,13 @@ selected = false
 title = "The effect on bending waves by defects in pinned elastic plates"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/pinned_defect.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="http://www.sciencedirect.com/science/article/pii/S0022460X12004798"
 
 [[url_custom]]
 name = "Article Link"
 url = "http://www.sciencedirect.com/science/article/pii/S0022460X12004798"
 
 +++
-
- 
