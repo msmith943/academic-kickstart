@@ -12,15 +12,13 @@ selected = false
 title = "Perforated grating stacks in thin elastic plates"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
+url_pdf = "/wave_motion_free_array.pdf"
 url_slides = ""
 url_video = ""
-
+url_source="http://www.sciencedirect.com/science/article/pii/S0165212516300907"
 
 [[url_custom]]
 name = "Article Link"
 url = "http://www.sciencedirect.com/science/article/pii/S0165212516300907"
 
 +++
-
- 
